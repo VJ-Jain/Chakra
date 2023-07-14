@@ -10,7 +10,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "Domain.wasm": "sha256-EKoNsc7jmqM8MgJVI\/raDNyZ82sdl418ePsFoVoc5q4=",
+      "Domain.wasm": "sha256-H1ph\/dBUD+U8o40u5arXZANiPT1HitplIOZKJtlVrPc=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-2W5ShTmqcWks\/wNrCzuZMDO7OdW6TR2MSl3OpUsPuvw=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-n7cihyP3Rv7e+7H6APd31+X8VC07wza9pfgD8oNeK5Y=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-aG7u21bzWg\/z28pLs3MgfV\/SExvhTEONVXSwPFcodEo=",
@@ -27,7 +27,7 @@
       "Microsoft.Extensions.Primitives.wasm": "sha256-mcQXSXHMh3keiLlxsl3lepJs4yvUn4hv+kEt0Ho6PeE=",
       "Microsoft.JSInterop.wasm": "sha256-AxDm0cGyQ+bKczXaXZzvHG7g6R8IDrGkZjwVZiVqrMg=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-3M3bbxlwLZNSyJxat0Jq0gaZI7tiztzAUA+hkg0+4w8=",
-      "MKkSB.wasm": "sha256-axYoEFb3NV0MHK8Ixl9XrAs1qtdG7nJTXIyXrqN9j3I=",
+      "MKkSB.wasm": "sha256-i3EnJdJobcZfRChY+P3iu9hESVlYeQWurzypsDclLPY=",
       "Newtonsoft.Json.wasm": "sha256-GlXMWKvDs45M2pACoR3Y4Qh8mcrOZGljqmvJY+6JZ5s=",
       "Radzen.Blazor.wasm": "sha256-ncg0XL0u+JlQClwmBUhgFjI\/5XfeGgdVvivA5mHe8YA=",
       "System.Collections.Concurrent.wasm": "sha256-lMcviBIQIrGwtci0VpZIFcQmCbeaU7kOCD4r0MD0JN4=",
