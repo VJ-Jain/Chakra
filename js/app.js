@@ -1,4 +1,4 @@
-function triggerFileDownload(fileName, fileContent) {
+﻿function triggerFileDownload(fileName, fileContent) {
     const anchorElement = document.createElement("a");
     anchorElement.href = "data:text/plain;charset=utf-8," + encodeURIComponent(fileContent);
 
