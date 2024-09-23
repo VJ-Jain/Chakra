@@ -15,5 +15,5 @@ Siri Bhoovalay Chakra Analysis - Production
   - edit index.html `<head> <base href="/{xyz}/"/>` - `xyz` should be github repo name i.e. `Chakra`
   - create a copy of edited index.html & rename to 404.html in same folder
   - add a blank `.nojekyll` file to root
-- Push to gh-pages branch for static web app deployment.
+- Push to `master` branch for static web app deployment.
 - Github Actions deploy this automatically to https://vj-jain.github.io/Chakra
