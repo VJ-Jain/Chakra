@@ -1,5 +1,7 @@
 # Chakra - Prod
-Deployment Steps
+Siri Bhoovalay Chakra Analysis - Production
+
+# Deployment Steps
 - Project MKKSB --> Publish From Visual Studio
   - Use Absolute Path as Target Location - for e.g. c:\src\MKKSB\Publish
   - Configuration - Release
@@ -10,7 +12,7 @@ Deployment Steps
   - Delete all existing files prior to publish - ticked
   - Publish
 - In Published wwwroot folder
-  - edit index.html `<head> <base href="/{xyz}/"/>` - `xyz` should be github repo name e.g. Chakra or Chakra-Dev
+  - edit index.html `<head> <base href="/{xyz}/"/>` - `xyz` should be github repo name i.e. `Chakra`
   - create a copy of edited index.html & rename to 404.html in same folder
   - add a blank `.nojekyll` file to root
 - Push to gh-pages branch for static web app deployment.
