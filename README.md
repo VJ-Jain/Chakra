@@ -13,6 +13,7 @@ Siri Bhoovalay Chakra Analysis - Production
   - Publish
 - In Published wwwroot folder
   - edit index.html `<head> <base href="/{xyz}/"/>` - `xyz` should be github repo name i.e. `Chakra`
+  - for publishing to custom domain don't edit index.html. Keep paths as `<base href="/" />`
   - create a copy of edited index.html & rename to 404.html in same folder
   - add a blank `.nojekyll` file to root
 - Push to `master` branch for static web app deployment.
